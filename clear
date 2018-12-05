@@ -1,0 +1,206 @@
+[33mcommit 5856075f0bb6c8f7c6ce67b21fae494107b84f45[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Wed Nov 28 11:09:25 2018 -0200
+
+    Correção de erros no cadastro de funcionários.
+
+[33mcommit 3b4d9d79d3a48c79c687d8e69922e2eb81450807[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Wed Nov 28 11:05:29 2018 -0200
+
+    Correção de erros no cadastro de funcionários.
+
+[33mcommit 20bf02416424647b572de5bdb7e477f09b8ab60a[m
+Merge: c72360a 0fd9508
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Nov 28 10:31:28 2018 -0200
+
+    Correção - Conflito
+
+[33mcommit c72360af8afcb45bf8158bc143da50980ebf479a[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Nov 28 10:19:19 2018 -0200
+
+    Inserção do formulário de cadastro de usuários no sidebar
+
+[33mcommit 0fd9508809aa73d1f59656fb010a603cf9db32c9[m
+Merge: 7e218b4 8fd99a7
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Thu Nov 22 14:44:54 2018 -0200
+
+    Merge branch 'master' of https://gitlab.com/lucianossj/DelucasLav-Web
+
+[33mcommit 7e218b464e872be3f6635feca431247a9bc8bef4[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Thu Nov 22 14:44:29 2018 -0200
+
+    Criação inicial do front-end de algumas telas, início da implementação do back-end do Controle de Estoque e criação do arquivo único da NavBar lateral.
+
+[33mcommit 8fd99a7b4c2c50c606df9e504f9af9f1a7d73c3e[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Nov 21 15:55:59 2018 -0200
+
+    Alterações na tabela lista clientes
+
+[33mcommit 0df1cccd75fde06c8c6a5dde47dedbbd5893a0e0[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Nov 21 15:43:19 2018 -0200
+
+    Finalizada e testada a função de busca. Apliquei a função de busca na tabela do lista clientes e das higienizações
+
+[33mcommit 555ae3b53dc0752ea5ff8a56ab492ee62cadfb2f[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 20 15:51:03 2018 -0200
+
+    Início da implementação da exclusão de clientes (Issue #10).
+
+[33mcommit c8ee045bd4020d9a125851ebe28c2cdfc1538841[m
+Merge: 2c409e8 534d900
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 20 11:14:42 2018 -0200
+
+    Correção dos commits
+
+[33mcommit 2c409e85d5604248f9f6e3f8bfa0f1bfebeeeb57[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 20 11:11:01 2018 -0200
+
+    Correção de commits.
+
+[33mcommit 61485922c34102f30542b352d7efcb5a2787d8f3[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 20 11:04:23 2018 -0200
+
+    Implementação da funcionalidade de alteração de clientes (Issue #10).
+
+[33mcommit 534d9008628e81c1357342ec3865af7217009ba0[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Tue Nov 20 10:59:36 2018 -0200
+
+    Inclusão do botão visualiza clientes.Reorganização de algumas linhas bagunçadas. Centralizei Checkbox dos clientes que estava desconfigurado.
+
+[33mcommit df858e7f03de74d4442c5d39dba04241a1e275f6[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 20 09:45:36 2018 -0200
+
+    Correção na tabela de clientes (Issue #10).
+
+[33mcommit 952afe3d08552ec0c0bec676acefed04e09498c0[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Mon Nov 19 17:19:16 2018 -0200
+
+    Início da implementação do formulário de edição de clientes (Issue #10).
+
+[33mcommit e21c827485664660143de4cd01d60afc599b6bac[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Nov 14 22:00:59 2018 -0200
+
+    Correção no back-end da tabela clientes e Correção e alterações de alguns links que estão errados no front.
+
+[33mcommit 1ea03bb2bc5e9c20b8eede80860408ad81206ffa[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Tue Nov 13 18:25:26 2018 -0200
+
+    Reorganização do Sidebar.Criação das páginas Lista Clientes e Higienizações.Criação da função de busca clientes(ainda sendo implementada).Remoção da tabela clientes e do campo de busca na página clientes.php.Remoção da tabela Andamento das Higienizações e do campo de busca da página dashboard.php
+
+[33mcommit c5dae6e6a0335550bbf834fab3633ab7ecd6b07d[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 13 11:28:02 2018 -0200
+
+    Início da implementação da lógica dos checkboxes no Cadastro de Clientes (Issue #3).
+
+[33mcommit fc5f1cd3c2d9d8fff0290032da7652b0b8df700d[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Sat Nov 10 20:34:04 2018 -0200
+
+    Criação do arquivo funcoes.js.Botao adiciona clientes estalizado. Funcao checkbox criada.
+
+[33mcommit 2484c229d9aea8d5359bf8593c0250d2cb636ef7[m[33m ([m[1;31morigin/recebimentos-grafico[m[33m)[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Wed Nov 7 23:27:14 2018 -0200
+
+    Gráfico do dashboard finalizado(Issue #2).
+
+[33mcommit 7176119f954d2e8385a5db0257547a0a498a30b7[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Wed Nov 7 11:28:18 2018 -0200
+
+    Correção na tabela de cadastro de clientes (Issue #3) e correção no arquivo do banco de dados.
+
+[33mcommit 413551c8503c5169b6ef741163a8da0ca469a934[m[33m ([m[1;31morigin/cadastro-cliente[m[33m)[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 6 23:21:23 2018 -0200
+
+    Implementação da funcionalidade de inserção de usuários e a visualização dos mesmos na tabela (Issue #3).
+
+[33mcommit ac05f4ef7377e2766812b09dddf4622b3abe5517[m
+Merge: 56482d2 d25cc36
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 6 16:44:22 2018 -0200
+
+    Merge dos dados para o gráfico (tabela).
+
+[33mcommit d25cc36b227a111d65f1f3e6fef5ae0997add192[m[33m ([m[1;31morigin/dados-grafico[m[33m)[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Nov 6 16:06:59 2018 -0200
+
+    Correção de erro na validação do login.
+
+[33mcommit 32578db30454bb1e695b625adfe92ff6c0181743[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Thu Nov 1 21:51:41 2018 -0300
+
+    Criação e manipulação da tabela do Dashboard.
+
+[33mcommit 56482d26293f75c2538945e6582aac2e13a23ffe[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Thu Nov 1 16:26:53 2018 -0300
+
+    Adição de coluna 'status' na tabela de Ordens de Serviço no banco de dados.
+
+[33mcommit 601056f8a1fd63d07a616cfc07ea7499d9d1834f[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Thu Nov 1 16:09:50 2018 -0300
+
+    Alterações no gráfico do Dashboard.
+
+[33mcommit 58df0db2d8e5475031cbae9ddddfa2e91ddf9238[m
+Author: Luciano S. Junior <luciano.ssj@hotmail.com>
+Date:   Tue Oct 30 11:21:55 2018 -0300
+
+    Alterações no arquivo do banco.
+
+[33mcommit c3a0a8112fcdfca72e881273d54adf631c38bb61[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Oct 24 22:34:57 2018 -0300
+
+    Criação da tabela Lista Clientes na página Clientes
+
+[33mcommit 27f416a3e9e2789bce08733738f4d72dd01bd86c[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Wed Oct 24 10:42:47 2018 -0300
+
+    Alterações no dashboard,drop na coluna nivel e criação da página clientes
+
+[33mcommit 2e4e47d0e5afcb91a09ff06ccb27cb7f9a693f2b[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Tue Oct 16 10:06:39 2018 -0300
+
+    Alteração no BD (inclusão do campo do nível de acesso do usuário).'
+
+[33mcommit 226e96c00da7dfd01223784e6577dba9b5de1954[m
+Author: VittorioBarella <vittorio.br@hotmail.com>
+Date:   Tue Oct 16 10:01:42 2018 -0300
+
+    Alteração da tela de login,dashboard e criação da tela de cadastro de usuários.
+
+[33mcommit 12b75bdd8ae7eb51004ca727cc257a209c51514f[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Tue Oct 2 11:00:06 2018 -0300
+
+    Primeira tentativa de implementação da conexão com o BD e funcionalidade de login.
+
+[33mcommit 4fb1c9004e20dc70fdefb04c7fd9aee45c755d7b[m
+Author: LUCIANO DA SILVA SANTOS JUNIOR <631610257@fspoaeduc.com.br>
+Date:   Tue Oct 2 09:40:46 2018 -0300
+
